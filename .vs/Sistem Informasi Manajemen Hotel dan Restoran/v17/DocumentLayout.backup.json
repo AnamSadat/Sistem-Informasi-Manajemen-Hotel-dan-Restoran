@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formpegawai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formpegawai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formpegawai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formpegawai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\mdiparent1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formkamar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formkamar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formkamar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formkamar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtransaksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtamu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtamu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtamu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtamu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\modkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\modkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formpegawai.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formpegawai.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtransaksi.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtransaksi.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|d:\\coding\\visual basic\\project akhir\\sistem informasi manajemen hotel dan restoran\\sistem informasi manajemen hotel dan restoran\\formtamu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1CCE82EA-3F52-4029-B8E5-F76872B14A2F}|Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj|solutionrelative:sistem informasi manajemen hotel dan restoran\\formtamu.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T18:28:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T18:20:23.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPegawai.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAiwPEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T15:06:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MDIParent1.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T08:22:26.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sistem Informasi Manajemen Hotel dan Restoran",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-01-30T16:59:20.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPegawai.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-29T10:12:54.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MDIParent1.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\MDIParent1.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T08:23:01.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKamar.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAowAYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T13:10:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormKamar.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormKamar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T13:10:28.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTransaksi.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowC4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T16:23:00.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormTransaksi.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-29T10:34:23.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTamu.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowC8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T13:11:11.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormTamu.vb [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb [Design]",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-29T09:58:08.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModKoneksi.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\ModKoneksi.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\ModKoneksi.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\ModKoneksi.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\ModKoneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-29T07:28:16.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTamu.Designer.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.Designer.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.Designer.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.Designer.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTamu.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T16:19:43.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormTransaksi.Designer.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.Designer.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.Designer.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.Designer.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormTransaksi.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T16:19:45.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPegawai.Designer.vb",
+              "DocumentMoniker": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.Designer.vb",
+              "RelativeDocumentMoniker": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.Designer.vb",
+              "ToolTip": "D:\\Coding\\Visual Basic\\Project Akhir\\Sistem Informasi Manajemen Hotel dan Restoran\\Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.Designer.vb",
+              "RelativeToolTip": "Sistem Informasi Manajemen Hotel dan Restoran\\FormPegawai.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-30T16:19:45.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
